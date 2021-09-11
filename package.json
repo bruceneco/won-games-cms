@@ -2,7 +2,7 @@
   "name": "api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "API for Won Games e-commerce.",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -27,7 +27,7 @@
     "strapi-utils": "3.6.8"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Bruce Neco"
   },
   "strapi": {
     "uuid": "7dd8b082-05dc-4b30-b9f3-0cbe6da7a20f"
